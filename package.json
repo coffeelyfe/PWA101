@@ -1,0 +1,16 @@
+{
+    "name":"pwa101",
+    "version": "1.0.0",
+    "description": "A 101 introduction to PWAs",
+    "scripts": {
+        "start": "http-server -c-1 -p 8081"
+    },
+    "keywords": [
+        "pwa"
+    ],
+    "author": "Andreas Hafsaas",
+    "license": "MIT",
+    "devDependencies": {
+        "http-server": "^0.10.0"
+    }
+}
